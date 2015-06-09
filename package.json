@@ -1,0 +1,21 @@
+{
+  "name": "quiz-master-api",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Pendrey"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "description": "Quiz REST API",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/alexpendrey/quiz-master-api"
+  },
+  "dependencies": {
+    "mongoose": "^4.0.0",
+    "q": "^1.0",
+    "random-js": "^1.0.4",
+    "request": "^2.0.0",
+    "restify": "^2.8.0"
+  }
+}
